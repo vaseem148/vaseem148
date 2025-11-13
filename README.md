@@ -1,4 +1,11 @@
-<h1 align="center" color: gardiean>Hi, I'm Mohamed Vaseem 👋</h1>
+<!-- ============================== -->
+<!-- 🔥 ANIMATED HEADER - VASEEM    -->
+<!-- ============================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=0EF6F6&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Hi%2C+I'm+Mohamed+Vaseem;MERN+Stack+Developer+%7C+UI%2FUX+Designer+%7C+Data+Science+Enthusiast" />
+</p>
+
 <h3 align="center">MERN Stack Developer • UI/UX Designer • Data Science Enthusiast</h3>
 
 <p align="center">
