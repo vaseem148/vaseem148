@@ -1,88 +1,85 @@
-<h1 align="center">Hi, I'm Mohamed Vaseem 👋</h1>
-<h3 align="center">MERN Stack Developer • UI/UX Designer • Data Science Enthusiast</h3>
+<!-- ---------------------------------------------------------
+       🌟 MODERN ANIMATED GITHUB PROFILE – VASEEM148
+---------------------------------------------------------- -->
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&pause=1000&color=7F00FF&width=800&center=true&lines=Hi%2C+I'm+Mohamed+Vaseem!;MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Enthusiast;Full+Stack+Web+Developer" />
+
+---
+
+## 🚀 About Me  
+💡 MERN Stack Developer passionate about building fast, modern and user-friendly applications.  
+🎨 UI/UX lover who creates clean, minimal and aesthetic designs.  
+📊 Learning Data Science to merge **design + development + analytics**.  
+🔥 Always exploring new technologies and improving problem-solving skills.
+
+---
+
+## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;Data+Science+%26+AI+Learner;Building+Clean+%26+Modern+Digital+Products" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,bootstrap,vite,figma,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔥 Passionate about **modern web development** using MERN stack  
-- 🎨 Skilled in creating **minimal, user-focused UI/UX designs**  
-- 📊 Exploring **Data Science, Python, Machine Learning**  
-- 🤝 I love collaborating on **real-world projects & open-source**  
-- 📩 Reach me at: **yourmail@example.com**
-
----
-
-## 🚀 Tech Stack
-
-### **Frontend**
+## ⚡ My Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
-</p>
-
-### **Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### **UI / UX Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai" />
-</p>
-
-### **Data Science**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
-
-
----
-
-## 📈 GitHub Performance
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🧩 Featured Skills (Professional View)
-
-#### **MERN Stack**
-- Building scalable APIs  
-- Creating full-stack applications  
-- Authentication, JWT, Middleware  
-
-#### **UI/UX Design**
-- Wireframes → Prototypes  
-- Design systems  
-- Clean, minimal user-first designs  
-
-#### **Data Science**
-- Data cleaning  
-- Visualizations  
-- ML model basics  
-
----
-
-## 🏆 Highlight
+## 📈 Contribution Streak  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=vaseem148&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Connect with Me
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+## 🎨 UI/UX Showcase (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/resources/animat-lightbulb-color.gif" width="60" />
+</p>
+
+**Design Philosophy:**  
+✔ Clean Layouts  
+✔ Attractive Color Theory  
+✔ Smooth Interactions  
+✔ User-First Approach  
+
+---
+
+## 🔧 Tools I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,redux,firebase,linux,ps,ai" />
 </p>
 
 ---
 
-<p align="center">✨ Always learning. Always building. Always improving. ✨</p>
+## 📚 Data Science Skills  
+- Python  
+- Pandas & NumPy  
+- Matplotlib / Seaborn  
+- Data Cleaning / Analysis  
+- ML Basics  
+
+---
+
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=gatsby&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaseem148@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" />
+</p>
+
+---
+
+### ⭐ If you like this profile design, don't forget to star ⭐ your favourite repos!
 
