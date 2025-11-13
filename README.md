@@ -1,16 +1,12 @@
 <!-- ============================== -->
-<!-- 🔥 ANIMATED HEADER - VASEEM    -->
+<!-- 🔥 MOHAMED VASEEM ANIMATED HEADER -->
 <!-- ============================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=0EF6F6&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Hi%2C+I'm+Mohamed+Vaseem;MERN+Stack+Developer+%7C+UI%2FUX+Designer+%7C+Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohamed+Vaseem;MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Enthusiast" />
 </p>
 
-<h3 align="center">MERN Stack Developer • UI/UX Designer • Data Science Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Creative+UI%2FUX+Designer;Data+Science+%26+AI+Explorer;Building+Clean+%26+Modern+Digital+Experiences" />
-</p>
+<h3 align="center">Creating Clean • Modern • User-Focused Digital Experiences</h3>
 
 ---
 
@@ -91,3 +87,4 @@
 ---
 
 <p align="center">✨ Always learning. Always building. Always improving. ✨</p>
+
