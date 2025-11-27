@@ -1,109 +1,165 @@
-<!-- ============================== -->
-<!-- 🌟 MOHAMED VASEEM – GITHUB README -->
-<!-- ============================== -->
+<!-- ====================================================== -->
+<!-- 🌈 MOHAMED VASEEM — ULTRA MODERN ANIMATED README       -->
+<!-- ====================================================== -->
 
-<h1 align="center">Hi, I'm Mohamed Vaseem 👋</h1>
-
+<!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <b>MERN Stack Developer · UI/UX Designer · Data Science Learner</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=800&color=FF00E6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohamed+Vaseem;MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Learner;Creative+Digital+Builder" />
+</p>
+
+<!-- 🎨 Tagline Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Creating%20Modern%20•%20Colorful%20•%20User-Focused%20Experiences-ff00ea?style=for-the-badge" />
+</p>
+
+<!-- 🌍 Social & Contact Badges -->
+<p align="center">
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vaseem148.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vaseem148" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:yourmail@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">LinkedIn</a> •
-  <a href="https://vaseem148.github.io" target="_blank">Portfolio</a> •
-  <a href="https://github.com/vaseem148?tab=repositories" target="_blank">Projects</a>
+  <img src="https://komarev.com/ghpvc/?username=vaseem148&style=flat-square&color=ff00ea" alt="profile views" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-- 🔭 I build **clean, scalable web applications** using the MERN Stack  
-- 🎨 I enjoy crafting **modern, user-centered UI/UX designs**  
-- 📊 Learning and exploring **Python, Data Science & basic ML concepts**  
-- 🤝 Open to **collaborations, freelance work, and real-world projects**  
-- 💡 I like turning ideas into **simple, usable digital products**
+- 💻 **MERN Stack Developer** – clean, scalable, responsive web apps  
+- 🎨 **UI/UX Designer** – love gradients, neon style, and minimal layouts  
+- 📊 Exploring **Python, Data Science, and ML basics**  
+- 🧠 Focus: **User experience, performance, and simple UX flows**  
+- 🤝 Open for **collabs, freelance projects, and real-world apps**  
+- 🌱 Always learning & improving my design + dev workflow  
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 Tech Stack
 
 ### 🌐 Frontend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### 🧩 Backend & Database
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 📊 Data / Tools / Others
+### 🛠 Tools, Design & Others
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,python" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## ⚡ GitHub Stats
 
-> 🔽 Update the links & description with your real projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=radical&hide_border=false&border_radius=18" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaseem148&theme=radical&hide_border=false&border_radius=18" height="170" />
+</p>
 
-- 🎯 **Project 1 – Title Here**  
-  Short description about the project (what it does, tech used).  
-  `React · Node.js · MongoDB`  
-  [🔗 View Repository](https://github.com/vaseem148/project-1-link)
-
-- 🪴 **Project 2 – Plant Care / Save Trees UI/UX**  
-  A clean UI/UX design and website concept for tree/plant awareness or services.  
-  `Figma · UI/UX · Frontend`  
-  [🔗 View Repository](https://github.com/vaseem148/project-2-link)
-
-- 📘 **Project 3 – Notes / Guides Web**  
-  A simple notes & guides platform for students with clean UI.  
-  `MERN Stack`  
-  [🔗 View Repository](https://github.com/vaseem148/project-3-link)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=radical&hide_border=false&border_radius=18" height="170" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaseem148&theme=radical&column=6&margin-w=10&margin-h=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaseem148&theme=default" alt="GitHub Streak" />
-</p>
+---
+
+## 🌈 Divider
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 </p>
+
+---
+
+## 📁 Featured Projects
+
+> 👉 Links example only – replace with your real repos.
+
+### 🔥 Modern UI Dashboard
+
+- 🎯 **Description:** Analytics dashboard with charts, cards, dark mode & animations  
+- 🧩 **Stack:** React, Node.js, Express, MongoDB, TailwindCSS  
+- 🔗 **Repo:** `https://github.com/vaseem148/modern-dashboard` *(change to your link)*  
+
+---
+
+### 🌿 Save Trees / Plant Service Website
+
+- 🌱 **Description:** Plant-based service / awareness website with smooth sections  
+- 🎨 **Focus:** Clean UI, nature colors, big typography, responsive  
+- 🧩 **Stack:** React / HTML-CSS-JS, Figma prototype  
+- 🔗 **Repo:** `https://github.com/vaseem148/plant-service` *(change to your link)*  
+
+---
+
+### 📘 Notes & Guide Platform
+
+- 📚 **Description:** Simple notes & guide platform for students  
+- 🧩 **Stack:** MERN Stack (MongoDB, Express, React, Node)  
+- 🔗 **Repo:** `https://github.com/vaseem148/notes-guide` *(change to your link)*  
 
 ---
 
 ## 🎨 UI/UX & Design
 
-- I like **minimal, modern, and clean interfaces**
-- Focus on **readability, spacing, and color balance**
-- I often prototype using **Figma** before writing code
+- I enjoy experimenting with:
+  - ✨ Neon + gradient themes  
+  - 📐 Clean layout, spacing & hierarchy  
+  - 📱 Mobile-first, responsive UI  
+- Tools:
+  - 🎨 **Figma** for wireframes & prototypes  
+  - 📏 Component-based design system mindset  
 
-If you’re interested in my design work, check out:
-
-- 📁 **Figma / Dribbble / Behance** – *add your links here if you have*
+If you like design + dev combo, **let's collaborate** 👇
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: **yourmail@example.com**  
-- 💼 LinkedIn: **[Your Name](https://www.linkedin.com/in/your-linkedin-username)**  
-- 🌐 Portfolio: **https://vaseem148.github.io**
+<p align="center">
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-ff0080?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vaseem148.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vaseem148" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repos-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐  
-  Feel free to check out my repositories and connect with me.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
