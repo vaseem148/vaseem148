@@ -1,98 +1,46 @@
 <!-- ====================================================== -->
-<!-- ⭐ Professional GitHub Profile — Mohamed Vaseem        -->
+<!-- 🌈 MOHAMED VASEEM — ANIMATED COLORFUL GITHUB README   -->
 <!-- ====================================================== -->
 
-<h1 align="center">Hi, I'm Mohamed Vaseem 👋</h1>
-
+<!-- 🔥 Animated Typing Header -->
 <p align="center">
-  MERN Stack Developer&nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; Data Science Learner
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=800&color=FF00E6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohamed+Vaseem;MERN+Stack+Developer;UI%2FUX+Designer;Data+Science+Learner;Creative+Digital+Builder;Welcome+to+my+GitHub!"
+  />
 </p>
 
+<!-- ✨ Tagline -->
+<h3 align="center">
+  Creating colorful, modern & user-focused digital experiences
+</h3>
+
+<!-- 🌍 Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:yourmail@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://vaseem148.github.io">Portfolio</a> •
-  <a href="https://github.com/vaseem148?tab=repositories">Projects</a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I’m a developer who enjoys building **clean, scalable, and user-focused web applications**.  
-My work combines **solid development practices** with **clean UI/UX principles**.  
-I care about clarity, performance, accessibility, and meaningful user experiences.
-
-- 🔭 Currently working with the **MERN Stack**  
-- 🎨 Passionate about **UI/UX design systems & modern interfaces**  
-- 📊 Exploring **Data Science fundamentals & Python automation**  
-- 🤝 Open to collaborations, freelance projects, and product partnerships  
-
----
-
-## 🛠 Tech Stack
-
-### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & Others  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,python" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 1. **Modern Dashboard (MERN)**
-A clean, professional analytics dashboard with reusable components and charts.  
-Tech: **React, Node.js, MongoDB, TailwindCSS**  
-🔗 Repo: https://github.com/vaseem148/project-1
-
----
-
-### 2. **Plant / Save Tree UI Website**
-A minimal green-themed UI for plant care awareness and services.  
-Tech: **Figma, React / HTML, CSS**  
-🔗 Repo: https://github.com/vaseem148/project-2
-
----
-
-### 3. **Notes / Study Guide Platform**
-A simple and efficient notes platform for students using MERN Stack.  
-Tech: **MongoDB, Express, React, Node**  
-🔗 Repo: https://github.com/vaseem148/project-3
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=transparent&rank_icon=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=vaseem148&theme=transparent" />
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vaseem148.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vaseem148?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub%20Projects-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=transparent" />
+  <img src="https://komarev.com/ghpvc/?username=vaseem148&style=flat-square&color=ff00e6" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🚀 About Me
 
-- 📧 Email: **yourmail@example.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/your-link**  
-- 🌐 Portfolio: **https://vaseem148.github.io**
-
----
-
-<p align="center">
-  Thanks for visiting my profile — feel free to explore my projects!
-</p>
+```diff
++ 💻 MERN Stack Developer — clean, scalable web apps
++ 🎨 UI/UX Designer — gradients, smooth animations, modern layouts
++ 📊 Data Science learner — Python, basic ML & visualizations
++ 🧠 Focus: user experience, performance & simple flows
++ 🤝 Open for collaborations, freelance & real-world projects
