@@ -1,9 +1,32 @@
-<!-- WAVE HEADER -->
+<!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=180&section=header&text=Mohamed%20Vaseem&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
+<!-- ===================== NAVBAR ===================== -->
+<div align="center">
+
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/About-0ea5e9?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+<a href="#-skills--technologies">
+  <img src="https://img.shields.io/badge/Skills-9333ea?style=for-the-badge&logo=stackshare&logoColor=white"/>
+</a>
+<a href="#-projects">
+  <img src="https://img.shields.io/badge/Projects-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#-github-stats">
+  <img src="https://img.shields.io/badge/Stats-6366f1?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</a>
+<a href="#-connect-with-me">
+  <img src="https://img.shields.io/badge/Contact-f43f5e?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Code+%2B+Design+%3D+Powerful+Product"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Code+%2B+Design+%3D+Powerful+Product"/>
 </p>
 
 ---
@@ -18,7 +41,7 @@
 ## 🧑‍💻 About Me  
 
 - 📊 **Data Science** – Data analyze pannitu insights & predictions eduppen  
-- 💻 **MERN Stack Developer** – Scalable full-stack web apps build panren  
+- 💻 **MERN Stack Developer** – Full stack scalable web apps build panren  
 - 🎨 **UI/UX Designer** – Clean, modern, user-friendly designs create panren  
 - 🛠️ **Tools:** VS Code, GitHub, Figma, Jupyter Notebook  
 - 🌱 Currently learning **AI, Advanced ML & Product Design**  
@@ -31,7 +54,7 @@
 ![Python](https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9333ea?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0284c7?style=for-the-badge&logo=numpy&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-22c55e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-22c55e?style=for-the-badge)
 
 ### 💻 MERN Stack  
 ![MongoDB](https://img.shields.io/badge/MongoDB-16a34a?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,10 +71,10 @@
 
 ## 🧠 What I Do  
 
-✨ Data clean pannitu **meaningful insights** eduppen  
-✨ **Design + Development** rendu-um balance panni product create panren  
-✨ **User-friendly, high-conversion UI/UX** design panren  
-✨ Performance, accessibility & UX improve panna focus  
+✅ Data clean pannitu **meaningful insights** eduppen  
+✅ **Design + Development** balance panni products create panren  
+✅ **User-friendly & high-conversion UI/UX** design panren  
+✅ Performance, accessibility & UX improve panna focus  
 
 ---
 
@@ -60,17 +83,17 @@
 ### 🔹 Data Science  
 - 📈 Sales Prediction System  
 - 📊 Interactive Data Visualization Dashboard  
-- 🤖 Machine Learning Mini Projects  
+- 🤖 ML Mini Projects  
 
 ### 🔹 MERN Stack  
-- 🌐 Personal Portfolio Website  
-- 🛒 E-commerce Web Application  
+- 🌐 Portfolio Website  
+- 🛒 E-commerce Web App  
 - 🧾 CRUD & Admin Dashboards  
 
 ### 🔹 UI/UX  
-- 📱 Mobile App UI Designs  
-- 🌍 Website Redesign Case Studies  
-- 🧩 Design Systems & Components  
+- 📱 Mobile App Designs  
+- 🌍 Website Redesigns  
+- 🧩 Design Systems  
 
 ---
 
@@ -111,5 +134,5 @@
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
 
-<!-- FOOTER -->
+<!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
