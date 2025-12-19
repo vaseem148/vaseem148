@@ -1,94 +1,127 @@
-# 👋 Hi, I'm Mohamed Vaseem  
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Mohamed Vaseem</h1>
 
-🚀 Passionate **Data Science | MERN Stack Developer | UI/UX Designer**  
-💡 Real-world problems ku tech + design use panni solutions create panravan  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Products" />
+</p>
 
----
-
-## 🧑‍💻 About Me  
-
-- 📊 **Data Science** – Data analyze pannitu insights & predictions edukkanum  
-- 💻 **MERN Stack Developer** – Full stack web applications build panren  
-- 🎨 **UI/UX Designer** – Clean, modern, user-friendly designs create panren  
-- 🛠️ **Tools:** VS Code, GitHub, Figma, Jupyter Notebook  
-- 🌱 Currently learning advanced **AI & Product Design**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
+</p>
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🧠 About Me  
+
+💡 Naan **Data, Code, Design** moonuthaiyum combine panni  
+**real-world usable products** create panren.
+
+- 📊 Data analyze pannitu insights eduppen  
+- 💻 Full Stack Web Applications develop panren  
+- 🎨 User-friendly & modern UI/UX design panren  
+- 🚀 Learning AI, Advanced ML & Product Design  
+
+---
+
+## 🛠️ Tech Stack  
 
 ### 📊 Data Science  
-- Python 🐍  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Machine Learning (Basics)  
-- Jupyter Notebook  
+- Machine Learning (Beginner → Intermediate)
+
+---
 
 ### 💻 MERN Stack  
-- MongoDB 🍃  
-- Express.js ⚙️  
-- React.js ⚛️  
-- Node.js 🌐  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js" />
+</p>
+
 - REST APIs  
-- Git & GitHub  
+- Authentication  
+- Full Stack CRUD Apps  
 
-### 🎨 UI/UX Design  
-- Figma  
-- Wireframing & Prototyping  
-- User Research  
+---
+
+### 🎨 UI / UX Design  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+- Wireframing  
+- Prototyping  
 - Design Systems  
-- Responsive Design  
+- UX Research  
 
 ---
 
-## 🧠 What I Do  
+## 🚀 What I Build  
 
-✅ Data clean pannitu meaningful insights eduppen  
-✅ Full Stack web apps design + develop panren  
-✅ User-friendly & attractive UI/UX create panren  
-✅ Performance & UX improve panna focus panren  
+✨ Data-driven Applications  
+✨ Full Stack Web Apps  
+✨ Clean & Modern UI Designs  
+✨ Scalable & User-friendly Products  
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
-### 🔹 Data Science Projects  
-- 📈 Sales Prediction  
-- 📊 Data Visualization Dashboard  
-- 🤖 ML Mini Projects  
+### 📊 Data Science  
+- 📈 Sales Prediction System  
+- 📊 Interactive Dashboards  
+- 🤖 Machine Learning Mini Apps  
 
-### 🔹 MERN Stack Projects  
+### 💻 MERN Stack  
 - 🌐 Portfolio Website  
-- 🛒 E-commerce Web App  
-- 🧾 CRUD Applications  
+- 🛒 E-commerce Application  
+- 🧾 Admin Dashboards  
 
-### 🔹 UI/UX Projects  
-- 📱 Mobile App Design  
-- 🌍 Website UI Redesign  
-- 🧩 Design System Creation  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 **GitHub:** https://github.com/yourusername  
-- 🎨 **Figma:** https://figma.com/@yourprofile  
-- 💌 **Email:** yourmail@gmail.com  
+### 🎨 UI/UX  
+- 📱 Mobile App UI  
+- 🌍 Website Redesign  
+- 🎯 Product Design Concepts  
 
 ---
 
-## 🌟 GitHub Stats  
+## 📈 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact  
+## 🌐 Connect With Me  
 
-> "Code + Design = Powerful Product 🚀"
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://figma.com/@yourprofile">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+## ⚡ Quote I Follow  
+
+> **"Design creates experience. Code brings it to life."** 🚀
+
+---
+
+⭐ **If you like my work, star ⭐ my repositories & follow me!**
