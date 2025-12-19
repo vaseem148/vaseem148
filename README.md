@@ -1,26 +1,32 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Mohamed Vaseem</h1>
+<!-- ================== HEADER ================== -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00BFFF;">Mohamed Vaseem</span>
+</h1>
+
+<h3 align="center">
+  🚀 Data Scientist | MERN Stack Developer | UI/UX Designer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Building+Modern+Digital+Products&center=true&width=600&height=45&color=00BFFF">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
 </p>
 
 ---
 
-## 🧠 About Me  
+## 🧑‍💻 About Me  
 
-💡 Naan **Data, Code, Design** moonuthaiyum combine panni  
-**real-world usable products** create panren.
+✨ **Tech + Design** rendu mix panni real-world solutions create panravan  
+📊 Data la irundhu **insights** eduthu decisions improve panren  
+🎨 Users ku **smooth & attractive experience** create panren  
 
-- 📊 Data analyze pannitu insights eduppen  
-- 💻 Full Stack Web Applications develop panren  
-- 🎨 User-friendly & modern UI/UX design panren  
-- 🚀 Learning AI, Advanced ML & Product Design  
+- 🔭 Working on **Data Science & Full Stack Projects**
+- 🌱 Learning **AI, Advanced React & Product Design**
+- 💡 Interested in **Startups & SaaS Products**
+- ⚡ Fun fact: *Design illama code incomplete 😄*
 
 ---
 
@@ -29,44 +35,31 @@
 ### 📊 Data Science  
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical-orange" />
+  <img src="https://img.shields.io/badge/ML-Basics-green" />
 </p>
-
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Machine Learning (Beginner → Intermediate)
-
----
 
 ### 💻 MERN Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-- REST APIs  
-- Authentication  
-- Full Stack CRUD Apps  
-
----
-
-### 🎨 UI / UX Design  
+### 🎨 UI/UX Design  
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Wireframing-UX-purple" />
+  <img src="https://img.shields.io/badge/Prototyping-UI-pink" />
 </p>
-
-- Wireframing  
-- Prototyping  
-- Design Systems  
-- UX Research  
 
 ---
 
 ## 🚀 What I Build  
 
-✨ Data-driven Applications  
-✨ Full Stack Web Apps  
-✨ Clean & Modern UI Designs  
-✨ Scalable & User-friendly Products  
+✅ Data driven dashboards  
+✅ Full stack web applications  
+✅ Clean & modern UI designs  
+✅ High performance user experiences  
 
 ---
 
@@ -74,35 +67,35 @@
 
 ### 📊 Data Science  
 - 📈 Sales Prediction System  
-- 📊 Interactive Dashboards  
-- 🤖 Machine Learning Mini Apps  
+- 📊 Interactive Data Dashboards  
+- 🤖 ML Mini Projects  
 
 ### 💻 MERN Stack  
 - 🌐 Portfolio Website  
 - 🛒 E-commerce Application  
-- 🧾 Admin Dashboards  
+- 🧾 Admin Dashboard  
 
 ### 🎨 UI/UX  
 - 📱 Mobile App UI  
 - 🌍 Website Redesign  
-- 🎯 Product Design Concepts  
+- 🧩 Design Systems  
 
 ---
 
-## 📈 GitHub Analytics  
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -118,10 +111,13 @@
 
 ---
 
-## ⚡ Quote I Follow  
+## ⚡ Quote  
 
-> **"Design creates experience. Code brings it to life."** 🚀
+<p align="center">
+  <i>"Great products are built with logic, data, and beautiful design."</i>
+</p>
 
 ---
 
-⭐ **If you like my work, star ⭐ my repositories & follow me!**
+<!-- ================== FOOTER ================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
