@@ -1,92 +1,112 @@
-<!-- ===================== HERO HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&text=Mohamed%20Vaseem&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-</p>
+<!-- 3D Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Vaseem&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-<!-- ===================== MOVING NAVBAR (GIF BASED) ===================== -->
-<p align="center">
-  <a href="#about-me">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=38BDF8&center=true&vCenter=true&width=120&lines=ABOUT"/>
-  </a>
-  <a href="#skills--technologies">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=A855F7&center=true&vCenter=true&width=120&lines=SKILLS"/>
-  </a>
-  <a href="#projects">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=22C55E&center=true&vCenter=true&width=140&lines=PROJECTS"/>
-  </a>
-  <a href="#github-stats">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=6366F1&center=true&vCenter=true&width=120&lines=STATS"/>
-  </a>
-  <a href="#connect-with-me">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=F43F5E&center=true&vCenter=true&width=140&lines=CONTACT"/>
-  </a>
-</p>
+<h3 align="center">
+🚀 Data Scientist | MERN Stack Developer | UI/UX Designer
+</h3>
 
-<!-- GLOW LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
-<!-- ===================== MAIN ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F5FF&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Powerful+Products+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Intelligent+Experiences;Data+Science+%2B+MERN+%2B+UI%2FUX;Building+Modern+Web+Products;Design.+Develop.+Deploy." />
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-📊 Data Science – insights & predictions  
-💻 MERN Stack – full stack web apps  
-🎨 UI/UX – clean & modern designs  
-🛠️ Tools – VS Code, GitHub, Figma  
-🌱 Learning – AI & Product Design
+✨ Passionate **Full-Stack Developer & Data Scientist**  
+✨ Expert in **AI-powered web applications**  
+✨ Strong focus on **UI/UX & 3D-like interactions**  
+✨ Love converting **complex data into beautiful products**
 
----
-
-## Skills & Technologies
-
-**Data Science:** Python, Pandas, NumPy, ML  
-**MERN:** MongoDB, Express, React, Node  
-**UI/UX:** Figma, Prototyping, Design Systems  
+> *"Design is intelligence made visible, Code makes it alive."*
 
 ---
 
-## Projects
+## 🧩 Tech Stack (3D Style)
 
-🚀 Portfolio Website  
-🛒 E-commerce App  
-📊 Data Visualization Dashboard  
-📱 Mobile App UI Designs  
+### 💻 Programming & Frameworks
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb" />
+</p>
+
+### 📊 Data Science & AI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+- Pandas | NumPy | Matplotlib | Seaborn  
+- Machine Learning | Deep Learning  
+- Data Visualization & Prediction Models  
+
+### 🎨 UI / UX & Design
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,tailwind,css,threejs" />
+</p>
+
+- UI Systems & Design Tokens  
+- 3D UI Effects & Motion Design  
+- User-Centered Design (UCD)
 
 ---
 
-## Connect With Me
+## 🚀 What I Build
+
+✅ AI-based Web Applications  
+✅ MERN Stack SaaS Products  
+✅ Dashboards & Analytics Platforms  
+✅ High-End Portfolio Websites  
+✅ Mobile-First UI/UX Designs  
+
+---
+
+## 🌌 3D GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://figma.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## GitHub Stats
+## 🧠 Data Science Visualization
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-⚡ **Code + Design = Powerful Product**
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌀 3D Footer Wave
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
