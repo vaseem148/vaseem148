@@ -1,81 +1,72 @@
-<!-- Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohamed%20Vaseem&fontSize=42&fontAlignY=35&animation=fadeIn" />
 
-<h1 align="center">Mohamed Vaseem</h1>
+<h3 align="center">
+Data Scientist · MERN Stack Developer · UI/UX Designer
+</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <b>Data Scientist · MERN Stack Developer · UI/UX Designer</b>
-</p>
-
-<p align="center">
-  <i>Building intelligent, scalable & visually engaging web products</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Web+Applications;Data+Science+%7C+MERN+Stack+%7C+UI%2FUX;Design.+Develop.+Deploy." />
 </p>
 
 ---
 
 ## About Me
 
-I work at the intersection of **data, development, and design** to build  
-modern, high-quality digital products.
+I build **data-driven**, **scalable**, and **beautifully designed** web applications.
 
-- 🧠 Data-driven problem solving  
-- ⚙️ Scalable MERN stack applications  
-- 🎨 Clean UI/UX with subtle animations  
-- 🚀 AI-powered web solutions  
+- 🧠 Machine Learning & Data Science  
+- ⚙️ MERN Stack Development  
+- 🎨 UI/UX with motion & interaction  
+- 🚀 AI-powered systems  
 
-> *Design gives direction. Data gives clarity. Code gives life.*
+> *Design moves users. Data guides decisions. Code makes it real.*
 
 ---
 
 ## Tech Stack
 
 ### 💻 Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb" />
 </p>
 
 ### 📊 Data Science & AI
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-- Pandas · NumPy · Matplotlib · Seaborn  
-- Machine Learning · Deep Learning  
-
 ### 🎨 UI / UX
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,css,threejs" />
 </p>
-
-- Design Systems  
-- Mobile-First Design  
-- Subtle Motion & 3D Effects  
 
 ---
 
 ## What I Build
-- AI-powered web applications  
-- SaaS products using MERN stack  
-- Data dashboards & analytics platforms  
-- High-end portfolio & product websites  
+- AI-powered applications  
+- SaaS platforms (MERN)  
+- Analytics dashboards  
+- High-end UI/UX websites  
 
 ---
 
-## GitHub Stats
+## Live GitHub Activity
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Connect With Me
+## Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-gradient?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -84,5 +75,5 @@ modern, high-quality digital products.
   </a>
 </p>
 
-<!-- Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
