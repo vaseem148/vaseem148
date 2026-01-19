@@ -1,79 +1,74 @@
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohamed%20Vaseem&fontSize=42&fontAlignY=35&animation=fadeIn" />
+<!-- Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&section=header&text=Mohamed%20Vaseem&fontSize=38&animation=twinkling" />
 
-<h3 align="center">
-Data Scientist · MERN Stack Developer · UI/UX Designer
-</h3>
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Web+Applications;Data+Science+%7C+MERN+Stack+%7C+UI%2FUX;Design.+Develop.+Deploy." />
+<b>Data Scientist · MERN Stack Developer · UI/UX Designer</b>
+</p>
+
+<p align="center">
+<i>Data-driven systems · Scalable web apps · Modern UI/UX</i>
 </p>
 
 ---
 
 ## About Me
 
-I build **data-driven**, **scalable**, and **beautifully designed** web applications.
+I build **intelligent**, **scalable**, and **visually polished** digital products  
+by combining **Data Science**, **Full-Stack Engineering**, and **UI/UX Design**.
 
-- 🧠 Machine Learning & Data Science  
-- ⚙️ MERN Stack Development  
+- 🧠 Machine Learning & Data Analytics  
+- ⚙️ MERN Stack Architecture  
 - 🎨 UI/UX with motion & interaction  
-- 🚀 AI-powered systems  
-
-> *Design moves users. Data guides decisions. Code makes it real.*
+- 🚀 AI-powered web applications  
 
 ---
 
 ## Tech Stack
 
-### 💻 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb" />
-</p>
-
-### 📊 Data Science & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### 🎨 UI / UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,css,threejs" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tensorflow,pytorch,tailwind,figma,threejs" />
 </p>
 
 ---
 
 ## What I Build
-- AI-powered applications  
-- SaaS platforms (MERN)  
-- Analytics dashboards  
-- High-end UI/UX websites  
+- AI-powered web applications  
+- SaaS platforms using MERN stack  
+- Data dashboards & analytics tools  
+- High-end portfolio & product websites  
 
 ---
 
-## Live GitHub Activity
+## GitHub Analytics (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Connect
+## Contribution Snake (Animation)
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-gradient?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gradient?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+---
+
+## Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Gradient?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gradient?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=8&section=footer"/>
