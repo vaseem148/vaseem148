@@ -1,57 +1,70 @@
-<!-- Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&section=header&text=Mohamed%20Vaseem&fontSize=38&animation=twinkling" />
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20Vaseem&fontSize=42&fontAlignY=35&animation=twinkling" />
 
 <p align="center">
-<b>Data Scientist · MERN Stack Developer · UI/UX Designer</b>
-</p>
-
-<p align="center">
-<i>Data-driven systems · Scalable web apps · Modern UI/UX</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist;MERN+Stack+Developer;UI%2FUX+Designer;AI+Powered+Web+Applications;Design.+Develop.+Deploy." />
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me (Animated Vibe)
 
-I build **intelligent**, **scalable**, and **visually polished** digital products  
-by combining **Data Science**, **Full-Stack Engineering**, and **UI/UX Design**.
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+</p>
 
-- 🧠 Machine Learning & Data Analytics  
-- ⚙️ MERN Stack Architecture  
-- 🎨 UI/UX with motion & interaction  
-- 🚀 AI-powered web applications  
+- 🧠 Turning **data into intelligence**  
+- ⚙️ Building **scalable MERN applications**  
+- 🎨 Crafting **animated & interactive UI/UX**  
+- 🚀 Delivering **AI-powered digital products**  
+
+> *If it doesn’t move, it doesn’t impress.*
 
 ---
 
-## Tech Stack
+## 🚀 Animated Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tensorflow,pytorch,tailwind,figma,threejs" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tensorflow,pytorch,tailwind,figma,threejs&perline=7" />
+</p>
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
 ---
 
-## What I Build
-- AI-powered web applications  
-- SaaS platforms using MERN stack  
-- Data dashboards & analytics tools  
-- High-end portfolio & product websites  
+## 🔥 What I Build
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+✅ AI-based Web Apps  
+✅ MERN SaaS Platforms  
+✅ Animated Dashboards  
+✅ High-End Portfolio Websites  
+✅ Motion-first UI/UX Systems  
 
 ---
 
-## GitHub Analytics (Animated)
+## 📊 Live GitHub Motion
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00e5ff&line=7f3ace&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## Contribution Snake (Animation)
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
@@ -59,16 +72,18 @@ by combining **Data Science**, **Full-Stack Engineering**, and **UI/UX Design**.
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me (Animated Badges)
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Gradient?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Animated?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Gradient?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Animated?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=8&section=footer"/>
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&animation=fadeIn" />
