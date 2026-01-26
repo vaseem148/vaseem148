@@ -1,89 +1,100 @@
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20Vaseem&fontSize=42&fontAlignY=35&animation=twinkling" />
+<div align="center" style="width: 100%;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=160&section=header&text=Mohamed%20Vaseem&fontSize=48&animation=fadeIn&fontAlignY=32&fontColor=f8fafc" 
+    alt="Mohamed Vaseem Header" 
+    width="100%"
+  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist;MERN+Stack+Developer;UI%2FUX+Designer;AI+Powered+Web+Applications;Design.+Develop.+Deploy." />
+<h2 align="center" style="font-size: clamp(1.5rem, 3vw, 2rem);">
+  Data Science Enthusiast | UI/UX Designer | MERN Stack Developer
+</h2>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22d3ee&center=true&width=600&lines=Turning+Data+Into+Insights;Designing+User-Centered+Experiences;Building+Scalable+Web+Applications" 
+    alt="Typing Intro"
+  />
+</div>
+
+---
+
+<h2>🌟 About Me</h2>
+<p style="font-size: clamp(1.05rem, 2.2vw, 1.3rem);">
+I’m an aspiring <b>Data Scientist</b> and <b>MERN Stack Developer</b> with a strong passion for <b>UI/UX design</b>.  
+I love transforming data into meaningful insights, designing intuitive user interfaces, and building modern full-stack web applications with clean, scalable code.
 </p>
 
 ---
 
-## 🧠 About Me (Animated Vibe)
-
-<p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
-</p>
-
-- 🧠 Turning **data into intelligence**  
-- ⚙️ Building **scalable MERN applications**  
-- 🎨 Crafting **animated & interactive UI/UX**  
-- 🚀 Delivering **AI-powered digital products**  
-
-> *If it doesn’t move, it doesn’t impress.*
+<h2>💻 Tech Stack</h2>
+<div align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vercel,python&perline=6" 
+    alt="Tech Stack"
+  />
+</div>
 
 ---
 
-## 🚀 Animated Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,tensorflow,pytorch,tailwind,figma,threejs&perline=7" />
-</p>
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
-## 🔥 What I Build
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
-✅ AI-based Web Apps  
-✅ MERN SaaS Platforms  
-✅ Animated Dashboards  
-✅ High-End Portfolio Websites  
-✅ Motion-first UI/UX Systems  
+<h2>📊 GitHub Overview</h2>
+<div align="center">
+  <img 
+    height="165em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    style="width: 412px;"
+  />
+  <img 
+    height="165em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhd-muzammil&layout=compact&langs_count=8&theme=tokyonight" 
+    style="width: 412px;"
+  />
+</div>
 
 ---
 
-## 📊 Live GitHub Motion
+<h2>🧠 Interests</h2>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00e5ff&line=7f3ace&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+- 📊 Data Analysis & Machine Learning  
+- 🎨 UI/UX Design & Prototyping  
+- 🌐 Full-Stack Web Development  
+- 🚀 Building Real-World Projects  
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me (Animated Badges)
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Animated?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Animated?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&animation=fadeIn" />
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=mhd-muzammil&style=for-the-badge&color=8b5cf6" 
+    alt="Profile Views"
+  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center" width="100%">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=120&section=footer" 
+    width="100%"
+  />
+</div>
