@@ -90,11 +90,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=radical&hide_border=true"
     width="420"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-muzammil&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=radical&hide_border=true"
     width="350"
   />
 </div>
