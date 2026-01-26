@@ -1,39 +1,50 @@
-<!-- HERO HEADER -->
-<div align="center" style="width:100%;">
+<!-- 3D HERO -->
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Mohamed%20Vaseem&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20•%20UI%2FUX%20•%20MERN%20Stack&descSize=22&descAlignY=72&color=0:0f2027,50:203a43,100:2c5364"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Mohamed%20Vaseem&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20•%20UI%2FUX%20•%20MERN%20Stack&descSize=22&descAlignY=75&color=0:0f0c29,50:302b63,100:24243e"
     width="100%"
   />
 </div>
 
+<!-- 3D TYPING -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2200&pause=600&color=FACC15&center=true&width=850&lines=Data-Driven+Thinker+📊;Designing+Luxury+User+Experiences+🎨;Building+Scalable+MERN+Applications+🚀;Turning+Ideas+Into+Impact+✨"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1800&pause=400&color=7C7CFF&center=true&width=900&lines=🚀+Crafting+Next-Gen+Web+Experiences;🧠+Data+to+Decisions;🎨+Luxury+UI+With+Motion;🌐+Full-Stack+MERN+Engineer"
   />
 </div>
 
 <br/>
 
-<!-- GLASS INFO CARD -->
+<!-- 3D FLOATING AVATAR -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
+    width="420"
+  />
+</div>
+
+---
+
+<!-- GLASS + 3D ABOUT -->
+<h2 align="center">👋 About Me</h2>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h2 style="color:#FACC15;">👋 About Me</h2>
+      <td width="50%">
         <p>
-          I’m <b style="color:#38BDF8;">Mohamed Vaseem</b>, a passionate<br/>
-          <b>Data Science Aspirant</b>, <b>UI/UX Designer</b>, and<br/>
-          <b>MERN Stack Developer</b>.
-          <br/><br/>
-          I specialize in transforming <b>raw data into insights</b>,<br/>
-          crafting <b>pixel-perfect interfaces</b>, and<br/>
-          building <b>modern, scalable web applications</b>.
+          ✨ Hi, I’m <b style="color:#7C7CFF;">Mohamed Vaseem</b><br/><br/>
+          🔹 Data Science Aspirant<br/>
+          🔹 UI/UX Motion Designer<br/>
+          🔹 MERN Stack Engineer<br/><br/>
+          I build <b>immersive digital products</b><br/>
+          using <b>data, design & 3D-like motion</b>.
         </p>
       </td>
-      <td align="center" width="50%">
+      <td width="50%" align="center">
         <img
-          src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-          width="92%"
+          src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+          width="90%"
         />
       </td>
     </tr>
@@ -42,46 +53,37 @@
 
 ---
 
-<!-- SKILLS -->
-<h2 align="center">⚡ Core Skills</h2>
+<!-- 3D SKILLS -->
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,javascript&theme=dark&perline=6"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,git,github&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,html,css,git,github&theme=dark&perline=6"/>
 </div>
 
 ---
 
-<!-- SPECIALIZATION -->
-<h2 align="center">🧠 What I Do</h2>
+<!-- 3D CARDS -->
+<h2 align="center">🧠 Specializations</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3 style="color:#F472B6;">📊 Data Science</h3>
-        <p>
-          Exploratory Data Analysis<br/>
-          Machine Learning Fundamentals<br/>
-          Python • Pandas • NumPy
-        </p>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120"/><br/>
+        <b>📊 Data Science</b><br/>
+        ML • Analysis • Visualization
       </td>
       <td align="center" width="33%">
-        <h3 style="color:#34D399;">🎨 UI / UX</h3>
-        <p>
-          User-Centered Design<br/>
-          High-End Visual Systems<br/>
-          Wireframes • Prototypes
-        </p>
+        <img src="https://media.giphy.com/media/3o7aD4MdZy2cCz1j0I/giphy.gif" width="120"/><br/>
+        <b>🎨 UI / UX</b><br/>
+        Motion • Glass • Neon
       </td>
       <td align="center" width="33%">
-        <h3 style="color:#38BDF8;">🌐 MERN Stack</h3>
-        <p>
-          React & Animations<br/>
-          RESTful APIs<br/>
-          Full-Stack Deployment
-        </p>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/><br/>
+        <b>🌐 MERN Stack</b><br/>
+        APIs • Frontend • Backend
       </td>
     </tr>
   </table>
@@ -89,41 +91,51 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📈 GitHub Performance</h2>
+<!-- 3D GLOBE -->
+<h2 align="center">🌍 Global Developer</h2>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="430"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-muzammil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="360"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mhd-muzammil&theme=tokyonight&hide_border=true&background=0D1117"
-    width="580"
+    src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/earth.gif"
+    width="420"
   />
 </div>
 
 ---
 
+<!-- GITHUB 3D STATS -->
+<h2 align="center">📈 GitHub Activity</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mhd-muzammil&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+    width="430"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mhd-muzammil&theme=vision-friendly-dark&hide_border=true"
+    width="430"
+  />
+</div>
+
+---
+
+<!-- 3D CONTRIBUTION -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
+
+---
+
 <!-- CONNECT -->
-<h2 align="center">🌐 Let’s Connect</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7C7CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://your-portfolio-link">
@@ -133,14 +145,10 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- PREMIUM FOOTER -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
-</div>
-
-<div align="center" style="width:100%;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,50:203a43,100:2c5364"
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0f0c29,50:302b63,100:24243e"
     width="100%"
   />
 </div>
