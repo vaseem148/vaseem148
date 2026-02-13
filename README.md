@@ -45,13 +45,7 @@
 
   <br/><br/>
 
-  <!-- SNAKE 3D EFFECT -->
-  <img 
-    src="https://raw.githubusercontent.com/vaseem148/vaseem148/output/github-contribution-grid-snake-dark.svg"
-    width="96%"
-  />
-
-  <br/><br/>
+ 
 
 
 
