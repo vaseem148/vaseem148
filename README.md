@@ -53,17 +53,6 @@
 
   <br/><br/>
 
-  <!-- TROPHY WALL -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=vaseem148&theme=tokyonight&no-frame=true&row=1&column=7"
-    width="96%"
-  />
 
-  <br/><br/>
-
-  <!-- VISITOR -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=vaseem148&label=3D%20Profile%20Views&color=38BDF8&style=for-the-badge"
-  />
 
 </div>
