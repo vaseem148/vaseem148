@@ -1,64 +1,69 @@
-<!-- ===================== GITHUB PERFORMANCE ===================== -->
-<h2 align="center">🚀 GitHub Performance & Analytics</h2>
+<!-- ===================== FUTURISTIC 3D GITHUB ===================== -->
+<h2 align="center">🚀 3D Developer Analytics</h2>
 
 <div align="center">
 
-  <!-- PROFILE SUMMARY -->
+  <!-- 3D PROFILE CARD STYLE -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaseem148&theme=tokyonight"
-    width="95%" 
+    width="96%"
   />
 
   <br/><br/>
 
-  <!-- STATS + STREAK -->
+  <!-- 3D METRIC BALL -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaseem148&theme=tokyonight"
+    height="180"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaseem148&theme=tokyonight"
+    height="180"
+  />
+
+  <br/><br/>
+
+  <!-- FUTURISTIC STATS -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=vaseem148&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    height="175"
   />
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=vaseem148&theme=tokyonight&hide_border=true"
-    height="170"
+    height="175"
   />
 
   <br/><br/>
 
-  <!-- LANGUAGES -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaseem148&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
-  <br/><br/>
-
-  <!-- TROPHIES -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=vaseem148&theme=tokyonight&no-frame=true&margin-w=8"
-    width="95%" 
-  />
-
-  <br/><br/>
-
-  <!-- ACTIVITY GRAPH -->
+  <!-- 3D CONTRIBUTION GRAPH -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=vaseem148&theme=tokyo-night&hide_border=true"
-    width="95%" 
+    width="96%"
   />
 
   <br/><br/>
 
-  <!-- CONTRIBUTION SNAKE (WORKING VERSION) -->
+  <!-- SNAKE 3D EFFECT -->
   <img 
     src="https://raw.githubusercontent.com/vaseem148/vaseem148/output/github-contribution-grid-snake-dark.svg"
-    width="95%" 
+    width="96%"
   />
 
   <br/><br/>
 
-  <!-- VISITOR COUNTER -->
+  <!-- TROPHY WALL -->
   <img 
-    src="https://komarev.com/ghpvc/?username=vaseem148&label=Profile%20Views&color=38BDF8&style=for-the-badge"
+    src="https://github-profile-trophy.vercel.app/?username=vaseem148&theme=tokyonight&no-frame=true&row=1&column=7"
+    width="96%"
+  />
+
+  <br/><br/>
+
+  <!-- VISITOR -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=vaseem148&label=3D%20Profile%20Views&color=38BDF8&style=for-the-badge"
   />
 
 </div>
