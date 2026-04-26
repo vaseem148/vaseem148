@@ -1,7 +1,7 @@
 <!-- HERO HEADER -->
 <div align="center" style="width:100%;">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Mohamed%20Vaseem&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20•%20UI%2FUX%20•%20MERN%20Stack&descSize=20&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=MOHAMED%20VASEEM&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20•%20UI%2FUX%20•%20FullStact%20Developer&descSize=20&descAlignY=70"
     width="100%"
   />
 </div>
